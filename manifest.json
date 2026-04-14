@@ -2,20 +2,21 @@
   "name": "CartórioFlow — Controle de Prazos",
   "short_name": "CartórioFlow",
   "description": "Controle de prazos do 1º Ofício de Registro de Imóveis de Camaçari",
-  "start_url": "./index.html",
+  "start_url": "/cartorioflow/",
+  "scope": "/cartorioflow/",
   "display": "standalone",
   "background_color": "#f5f0e8",
   "theme_color": "#0d2a4a",
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/cartorioflow/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "/cartorioflow/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"

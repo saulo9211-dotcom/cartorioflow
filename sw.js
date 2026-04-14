@@ -4,8 +4,8 @@ const CACHE_NAME = 'cartorioflow-v1';
 
 // Arquivos essenciais para funcionar offline (shell do app)
 const SHELL = [
-  './index.html',
-  './manifest.json',
+  '/cartorioflow/',
+  '/cartorioflow/manifest.json',
   'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Mono:wght@300;400;500&family=DM+Sans:wght@300;400;500;600&display=swap',
   'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js',
 ];
