@@ -2,7 +2,7 @@
   "name": "CartórioFlow — Controle de Prazos",
   "short_name": "CartórioFlow",
   "description": "Controle de prazos do 1º Ofício de Registro de Imóveis de Camaçari",
-  "start_url": "/cartorioflow/",
+  "start_url": "/cartorioflow/index.html",
   "scope": "/cartorioflow/",
   "display": "standalone",
   "background_color": "#f5f0e8",
